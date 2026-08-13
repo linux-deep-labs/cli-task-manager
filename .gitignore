@@ -1,0 +1,26 @@
+# Gradle & Java build outputs
+.gradle/
+build/
+bin/
+out/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Database files
+*.db
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
